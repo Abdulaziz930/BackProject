@@ -2,7 +2,7 @@
 ### This is my first BackEnd project, in this project I created a console application with c#.
 ### What does this console application do?
 
-1)Adds users to the list
+1)Adds users to the list <br>
 2)It searches for users on the list
 3)Edits users
 4)Deletes users
