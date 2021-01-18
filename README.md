@@ -10,3 +10,5 @@
 6)Loads users stored in a .bin file <br>
 7)Displays loaded users <br>
 8)Exports listed users to files with the extension .xlsx and .txt
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/768px-C_Sharp_logo.svg.png" width="100" height="100">
