@@ -1,5 +1,5 @@
 # BackEndProject
-### This is my first BackEnd project, in this project I created a console application with c#.
+### This is my first BackEnd project, in this project I created a console application with c# programming language.
 ### What does this console application do?
 
 1)Adds users to the list <br>
