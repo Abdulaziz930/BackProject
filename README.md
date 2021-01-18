@@ -2,13 +2,15 @@
 ### This is my first BackEnd project, in this project I created a console application with c# programming language.
 ### What does this console application do?
 
-1)Adds users to the list <br>
-2)It searches for users on the list <br>
-3)Edits users <br>
-4)Deletes users <br>
-5)Saves the listed users in a file with a .bin extension <br>
-6)Loads users stored in a .bin file <br>
-7)Displays loaded users <br>
-8)Exports listed users to files with the extension .xlsx and .txt
+<ol>
+  <li>Adds users to the list</li>
+  <li>It searches for users on the list</li>
+  <li>Edits users</li>
+  <li>Deletes users</li>
+  <li>Saves the listed users in a file with a .bin extension</li>
+  <li>Loads users stored in a .bin file</li>
+  <li>Displays loaded users</li>
+  <li>Exports listed users to files with the extension .xlsx and .txt</li>
+</ol>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/768px-C_Sharp_logo.svg.png" width="100" height="100">
